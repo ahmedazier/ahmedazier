@@ -1,3 +1,5 @@
+<img src="images/ahmed-emoji-point.webp" alt="Ahmed Azier" align="right" width="180" />
+
 # Hi there, I'm Ahmed Azier
 
 **Software Engineer · Full-Stack Developer · Founder**
