@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/ahmed-emoji-laptop-transparent.webp" alt="Ahmed Azier" width="220" />
+  <img src="images/ahmed-emoji-thumb.webp" alt="Ahmed Azier" width="220" />
 </p>
 
 # Hi there, I'm Ahmed Azier
