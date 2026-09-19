@@ -1,4 +1,6 @@
-<img src="images/ahmed-emoji-point.webp" alt="Ahmed Azier" align="right" width="180" />
+<p align="center">
+  <img src="images/ahmed-emoji-laptop-transparent.webp" alt="Ahmed Azier" width="220" />
+</p>
 
 # Hi there, I'm Ahmed Azier
 
