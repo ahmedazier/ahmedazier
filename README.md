@@ -14,7 +14,7 @@ Based in **Dubai, UAE** · Remote-friendly · Building since **2017**
 
 ### About
 
-I'm a software engineer and founder working across **NestJS**, **Python**, and modern TypeScript stacks. I build backend services, full-stack products, and client platforms through [MaffeiTech](https://maffeitech.com) and related ventures.
+I'm a software engineer and founder working across **NestJS**, **Python**, and modern TypeScript stacks. I build backend services, full-stack products, and client platforms through [MaffeiTech](https://www.ahmedazier.com) and related ventures.
 
 I care about honest solutions — clean interfaces, reliable systems, and products that stay simple as they scale.
 
@@ -45,9 +45,9 @@ I care about honest solutions — clean interfaces, reliable systems, and produc
 
 ### Currently
 
-- Working on product platforms across healthcare, commerce, and client delivery
+- Shipping SaaS platforms, web apps, mobile products, APIs & AI automations
 - Building with **NestJS**, **Python**, **Next.js**, and TypeScript
-- Exploring AI-assisted product systems and automation
+- Exploring AI & product systems
 - Open to selected product builds, technical partnerships, and founder collaborations
 
 ---
@@ -56,10 +56,9 @@ I care about honest solutions — clean interfaces, reliable systems, and produc
 
 | Project | Role | What it is |
 | --- | --- | --- |
-| [MaffeiTech](https://maffeitech.com) | Founder & CEO | Custom software, web apps, AI solutions & digital systems for clients |
-| [MaffeiFlow](https://github.com/maffeiflow) | Founder | Business apps, digital products & marketplace systems |
-| **MaffeiCare** | Founder | Multi-tenant clinic & medical management platform |
-| **ByAzier** | Founder | Headless Shopify + Next.js storefronts |
+| [MaffeiTech](https://www.ahmedazier.com) | Founder & CEO | Websites, apps, custom software, AI solutions, marketing systems & IT for clients |
+| **MaffeiCare** | Co-founder | Multi-tenant clinic & medical management platform for healthcare teams |
+| **ByAzier** | Founder | Headless Shopify + Next.js storefront for print-on-demand |
 
 ---
 
